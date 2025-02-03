@@ -23,8 +23,11 @@ h1, h2 {
 }
 
 .container {
+    display: block;
     border: 2px dotted black;
     padding-left: 6px;
+    max-width: 600px;
+    margin: 30px auto;
 }
 
 .croissant-photo {
