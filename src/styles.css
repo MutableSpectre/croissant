@@ -27,6 +27,20 @@ h1, h2 {
     padding-left: 6px;
 }
 
+.croissant-photo {
+    border: 1px solid black;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px black;
+    display: block;
+    margin: 30px auto;
+    max-width: 100%;
+}
+
+.email-contact {
+    font-size: 20px;
+    text-align: center;
+}
+
 footer {
     text-align: center;
 }
